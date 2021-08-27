@@ -1,0 +1,145 @@
+
+
+document.getElementById('pannel_1_a').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="block";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="none";
+}
+
+document.getElementById('pannel_1_b').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="block";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="none";
+}
+
+document.getElementById('pannel_1_c').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="block";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="none";
+}
+
+document.getElementById('pannel_1_d').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="block";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="none";
+}
+
+document.getElementById('pannel_1_e').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="block";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="none";
+}
+
+document.getElementById('pannel_1_f').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="block";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="none";
+}
+
+document.getElementById('pannel_1_g').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="block";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="none";
+}
+
+document.getElementById('pannel_1_h').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="block";
+    document.getElementById('menu_3_9').style.display="none";
+}
+
+document.getElementById('pannel_1_i').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="block";
+}
+
+document.getElementById('pannel_1_j').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="none";
+}
+
+document.getElementById('pannel_1_k').onmouseover=function()
+{
+    document.getElementById('menu_3_1').style.display="none";
+    document.getElementById('menu_3_2').style.display="none";
+    document.getElementById('menu_3_3').style.display="none";
+    document.getElementById('menu_3_4').style.display="none";
+    document.getElementById('menu_3_5').style.display="none";
+    document.getElementById('menu_3_6').style.display="none";
+    document.getElementById('menu_3_7').style.display="none";
+    document.getElementById('menu_3_8').style.display="none";
+    document.getElementById('menu_3_9').style.display="none";
+}
+

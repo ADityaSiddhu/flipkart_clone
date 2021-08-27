@@ -1,0 +1,46 @@
+@media only screen and (max-width:600px)
+{
+    
+}
+
+@media only screen and (min-width:600px)
+{
+    
+}
+
+@media only screen and (min-width:752px)
+{  
+   .containt_pop
+      {   
+      width: 70%;
+     }
+}
+
+@media only screen and (min-width:992px)
+{  
+
+   .containt_pop
+   {   
+    width: 60%;
+   }
+   
+}
+
+@media only screen and (min-width:1200px)
+{  
+   
+   .menu_2
+   {
+    flex-basis: 11%;
+   }
+
+   .footer_2
+   {
+      height: 250px;
+   }
+
+   .containt_pop
+   {   
+    width: 50%;
+   }
+}
